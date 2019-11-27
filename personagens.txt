@@ -1,11 +1,2 @@
 Lion - Thander Cats
-Yusuke Yurameshi - Yu-Yu-Ra-Ku-Sho
-
-<html>
-<head>	Site	</head>
-<body>
-
-	<p>Meu site brabissimo!</p>
-
-</body>
-</html>
+Kuabara - Yu-Yu-Ra-Ku-Sho
